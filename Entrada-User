@@ -8,7 +8,7 @@ if nombre == "user":
     print("Usuario correcto")
     if contraseña == "1234":
         print("Contraseña correcta")
+print("Tienes acceso")
 else:
     print("No tienes acceso")
 
-print("Tienes acceso")
