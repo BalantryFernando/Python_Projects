@@ -1,0 +1,14 @@
+print("Escribe tu nombre: ")
+nombre = input(">")
+
+print("Escribe tu contraseña: ")
+contraseña = input(">")
+
+if nombre == "user":
+    print("Usuario correcto")
+    if contraseña == "1234":
+        print("Contraseña correcta")
+else:
+    print("No tienes acceso")
+
+print("Tienes acceso")
