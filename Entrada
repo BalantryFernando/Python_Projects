@@ -1,0 +1,24 @@
+print("-----------------")
+print("-----------------")
+print("Entrada Restringida")
+print("-----------------")
+print("-----------------")
+
+valor1 = ("Puedes entrar")
+valor2 = ("Sobrepasas el limite")
+valor3 = ("Tienes que ser mayor de edad")
+
+print("Introduce tu edad")
+key = int(input(">"))
+
+if key >= 18:
+    print(valor1)
+    print("-----------------")
+    print("-----------------")
+    print("puertas abiertas")
+    print("-----------------")
+    print("-----------------")
+elif key >= 23:
+    print(valor2)
+else:
+    print(valor3)
