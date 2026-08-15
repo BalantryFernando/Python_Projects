@@ -1,0 +1,12 @@
+# Cuadrado de 5, y las 0s que tu quieras
+
+print("Escribe el numero para el ancho, seran O")
+numero_escrito_x_usuario = (int(input(">")))
+
+columna = "O" * numero_escrito_x_usuario
+
+print(columna)
+print(columna)
+print(columna)
+print(columna)
+print(columna)

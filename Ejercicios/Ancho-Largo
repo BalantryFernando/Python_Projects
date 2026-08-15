@@ -1,0 +1,12 @@
+# Ancho y largo
+print("Escribe el largo del cuadrado")
+largo = int((input(">")))
+
+print("Escribe el ancho del cuadrado")
+ancho = int((input(">")))
+
+area = largo * ancho
+perimetro = ancho * 2 + largo *2
+
+print(f"El perimetro es {perimetro}")
+print(f"El area es {area}")
