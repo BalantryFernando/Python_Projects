@@ -2,7 +2,7 @@
 
 <p align="center">   <img src="https://github.com/BalantryFernando/Python_Projects/blob/main/BANNER.png?raw=true" alt="Mi Banner Profesional" width="1200"> </p>
 
-¡Hola! 👋 Soy Fernando y este es mi repositorio personal donde documento mi viaje de aprendizaje autodidacta con Python. Aquí encontrarás desde ejercicios básicos hasta proyectos más complejos que voy desarrollando.
+Buscare aprender Python dandole un enfoque en tareas basicas, simples y de manera intuitiva, compartire mis ejercicios en este repositorio.
 
 ---
 
