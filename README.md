@@ -15,19 +15,6 @@ Buscare aprender Python dandole un enfoque en tareas basicas, simples y de maner
 
 ---
 
-## 📂 Estructura del Repositorio
-
-El contenido está organizado en las siguientes carpetas para facilitar la navegación:
-
--   **`/Ejercicios`**: Contiene todos los proyectos prácticos, como:
-    -   `Calculadora`: Una calculadora simple.
-    -   `Juego Adivina el Número`: Un juego para adivinar un número aleatorio.
-    -   `Lista de Tareas`: Una aplicación para gestionar tareas.
--   **`/Chuletillas`**: Apuntes rápidos, resúmenes y fragmentos de código útiles (`snippets`) que uso como referencia.
--   **`/IMAGES`**: Almacena las imágenes y banners utilizados en el repositorio.
-
----
-
 ## 🏁 Cómo Empezar
 
 Si quieres probar alguno de los proyectos, sigue estos pasos:
